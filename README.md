@@ -1,7 +1,2 @@
-PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
+Predição de gênero para recomendação de livros: Um estudo de caso a partir da plataforma Skoob
 
-NÚCLEO DE EDUCAÇÃO A DISTÂNCIA
-
-Pós-graduação Lato Sensu em Ciência de Dados e Big Data
-
-PREDIÇÃO DE GÊNERO PARA RECOMENDAÇÃO DE LIVROS: UM ESTUDO DE CASO A PARTIR DA PLATAFORMA SKOOB
